@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hey there, I’m Anish  
 
-<!--
-**Anish-xii/Anish-xii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  About Me ? 😁
+I’m a **Computer Science student at Coventry University**, passionate about solving problems through code and building projects that people can actually use.  
+Currently, I’m focusing on **full-stack development** and exploring **AI/ML** on the side.  
+My repo is a mix of experiments, university work, and side projects that keep me curious. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** JavaScript, Python, C++  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Flask  
+- **Database:** Firebase Firestore, SQLite, MySQL (basics)  
+- **Other Tools:** Git/GitHub, Docker (basics), Figma, GSAP, yt-dlp + ffmpeg 
+
+---
