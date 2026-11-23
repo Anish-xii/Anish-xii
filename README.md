@@ -4,16 +4,13 @@
 </div>
 
 ## About Me
-I'm a full-stack software engineer and recent Computer Science graduate based in the UK. I build modern web applications using TypeScript, React, Node.js, FastAPI, and PostgreSQL, and enjoy working across the entire stack. I prefer projects that focus on doing one thing exceptionally well instead of trying to do everything. I'm motivated by opportunities to learn new concepts, both technical and non-technical, and I'm working on improving my communication as much as my engineering skills.  
-🎯 Joining a focused team or startup's interests me, as gaining experience across the product lifecycle and taking ownership of features would allow me to learn faster and make a meaningful contribution.
-
-
+I enjoy building backend software and full-stack applications, working across technologies and choosing my stack based on what makes development faster, simpler, and the end result more reliable. Through professional experience, personal projects, academic research, and collaboration, I've developed familiarity with professional workflows and tools. I'm particularly interested in fast-paced environments where I can take ownership, solve practical problems, keep learning, and build software that does its job exceptionally well.
 
 --- 
 
 ## Tech
 
-**Languages** · TypeScript · JavaScript · Python
+**Languages** · TypeScript · JavaScript · Python 
 
 **Frontend** · React · Next.js · Tailwind CSS
 
